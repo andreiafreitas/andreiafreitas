@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreiafreitas
 - 👀 I’m interested in software testing.
-- 🌱 I’m currently learning automation testing.
+- 🌱 I’m currently an automation tester @BuilderStorm
 - 💞️ I’m looking to collaborate on a team where I can learn and grown.
 - 📫 How to reach me andgofreitas@gmail.com
 
